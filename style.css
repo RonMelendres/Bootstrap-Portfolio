@@ -38,10 +38,25 @@
     
 }
 
+.card{
+    margin: 40px 0px;
+    
+}
+
 .card-title{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: white;
     color:#4aaaa5;
     border-color:#cccccc;
+}
+
+.img-thumbnail{
+    float: left;
+}
+
+.card-text{
+    margin: 10px 10px 20px 250px;
+    width: 70%;
+    line-height: 1.6;
 }
 
