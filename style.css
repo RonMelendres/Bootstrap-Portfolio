@@ -68,6 +68,14 @@
    
 }
 
+.card-title-2{
+    color: white;
+    background-color: #4aaaa5;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding-bottom: 0px;
+}
+
 .col-sm-3{
     padding-top: -30px;
     padding-bottom: -30px;
