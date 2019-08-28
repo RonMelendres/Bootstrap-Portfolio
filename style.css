@@ -81,7 +81,8 @@
     padding-bottom: -30px;
 }
 
+/* By using these media queries from Bootstrap, and adding a bit of styling, the page contents should adjust based on the max width.  */
+@media (max-width: 992px) { ... }
 
-
-
+@media (min-width: 576px) { ... }
 
